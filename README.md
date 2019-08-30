@@ -1,1 +1,1 @@
-video store web app simulation with basic crud
+video store web app simulation with basic crud.
